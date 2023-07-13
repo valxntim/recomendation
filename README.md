@@ -15,6 +15,7 @@ Este é o código-fonte de um aplicativo de feedback para a Universidade de Bras
 3. Configure o banco de dados MySQL com as informações apropriadas (host, usuário, senha, etc.).
 4. Rode os scripts para criação do Banco de Dados
 5. Execute o arquivo `crud.py` para iniciar o aplicativo.
+6. Rode no terminal `streamlit run crud.py` que ele vai fazer o deploy
 
 ## Funcionalidades
 
