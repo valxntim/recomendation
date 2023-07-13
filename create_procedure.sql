@@ -1,3 +1,4 @@
+-- Obter o número de administradores.
 DELIMITER //
 
 CREATE PROCEDURE ContarAdmins()
