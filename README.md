@@ -12,7 +12,8 @@ Este é o código-fonte de um aplicativo de feedback para a Universidade de Bras
 1. Clone este repositório em sua máquina local.
 2. Instale as dependências do Python listadas nos requisitos.
 3. Configure o banco de dados MySQL com as informações apropriadas (host, usuário, senha, etc.).
-4. Execute o arquivo `crud.py` para iniciar o aplicativo.
+4. Rode os scripts para criação do Banco de Dados
+5. Execute o arquivo `crud.py` para iniciar o aplicativo.
 
 ## Funcionalidades
 
